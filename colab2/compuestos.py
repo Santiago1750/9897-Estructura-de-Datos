@@ -103,3 +103,8 @@ print(cliente001)
 
 del cliente001["telefono"]
 print(cliente001)
+
+#Bolean
+
+mayorEdad=True
+open = False
