@@ -22,3 +22,15 @@ elif 200 <= 100:
 else:
     print("No se cumple ninguna condicion")
 
+#Operacdores Ternarios
+if 2 < 10: print("2 es menor que 5")
+print("se imprime la condicion verdadera") if 10 < 2 else print("Se imprime la condicion es falsa")
+
+#And
+
+if 2 < 9 and 3 < 10:
+    print("2 es menor que 9 y 3 es menor que 10")
+
+#Or
+if 9 < 100 or 100 > 1000:
+    print("9 es menoor que 100 o 100 es mayor que 1000")
